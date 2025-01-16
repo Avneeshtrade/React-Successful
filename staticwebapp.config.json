@@ -1,8 +1,0 @@
-{
-    "routes": [
-      {
-        "route": "/{*any}",
-        "rewrite": "/index.html"
-      }
-    ]
-}
