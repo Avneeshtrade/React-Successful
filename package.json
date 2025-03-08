@@ -34,7 +34,7 @@
     ]
   },
   "devDependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.8.2",
     "react-router-dom": "^5.0.1"
   },
   "proxy":"http://118.185.43.122/0537cs161008"
